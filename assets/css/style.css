@@ -74,6 +74,10 @@ img {
   word-wrap: break-word;
 }
 
+.errors p {
+  margin: 0;
+}
+
 h2 {
   font-size: 4rem;
   margin: 2% 0;
